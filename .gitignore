@@ -1,0 +1,14 @@
+### Logs ###
+test-report/
+selenium_standalone*
+
+### Node ###
+node_modules/
+yarn-error.log
+
+### IDE ###
+.DS_Store
+.idea
+
+### Zalenium ###
+videos/
